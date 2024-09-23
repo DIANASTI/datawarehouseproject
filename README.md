@@ -16,7 +16,7 @@ Once data is loaded and transformed into dimensional tables we can run the sql q
 
 Steps that were done to complete this project:
 - Create the IAM role which had assigned: AmazonS3ReadOnlyAccess and AmazonRedshiftAllCommandsFullAccess
-- Create the security group that authorise redshift cluster acces
+- Create the security group that authorise redshift cluster access
 - Create the Redshift cluster
 - Run the command to drop and recreate the tables:
      > $ python create_table.py
