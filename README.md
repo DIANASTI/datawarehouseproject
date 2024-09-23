@@ -29,3 +29,24 @@ Steps that were done to complete this project:
 
 ## Project Output
 
+Rows count per table:
+![ SQL_count ](count.png)
+
+ ### Query examples for song play analysis
+
+ #### 1. Title for the longest song:
+  ![ Longest_song ](title_longest_song.png)
+  
+ #### 2. Title for the most played song:
+ ![ Most_playes_song ](title_mostplayed_song.png)
+ 
+ #### 3. Gender proportions:
+ ![ Gender_proportions ](gender_proportions.png)
+ 
+ #### 4. Artist with the highest number of songs:
+ ![ Artist_max_songs ](artist_maxnr_songs.png)
+ 
+ #### 5. Artist with the most song plays:
+  ![ Artist_most_songplays ](artist_mostsong_plays.png)
+  
+
